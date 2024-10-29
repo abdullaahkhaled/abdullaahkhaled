@@ -6,13 +6,12 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdullaahkhaled.abdullaahkhaled&"  />
-</div>
+[![](https://visitcount.itsvg.in/api?id=abdullaahkhaled&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ###
 
-<h1 align="center">Abdullah khaled muhamed</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -20,7 +19,8 @@
 
 ###
 
-<p align="left">I am Junior Data Analyst, i have strong interest in data analysis and have taken several courses and internships to enhnce my skills in this field<br>  including Python programming, professional Excel user, SQL and data visulization tools like power BI and Tableau ,I seek to continuously improve my expertise and contribute effectively to data driven decision-making processes.</p>
+<p align="left"> <h4 align="left"> Abdallah khaled muhamed </h4> 
+I am Junior Data Analyst, i have strong interest in data analysis and have taken several courses and internships to enhnce my skills in this field<br>  including Python programming, professional Excel user, SQL and data visulization tools like power BI and Tableau ,I seek to continuously improve my expertise and contribute effectively to data driven decision-making processes.</p>
 
 ###
 
@@ -58,12 +58,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=abdullaahkhaled&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaahkhaled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=abdullaahkhaled&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
