@@ -1,19 +1,7 @@
-<div align="center">
-  <img height="155" src="https://www.deviantart.com/pixeljeff/art/Coding-990517671"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdullah-khaled00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100070712110088" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="25" alt="facebook logo"  />
-  </a>
-  <a href="abdallaahkhaled00@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
-  </a>
+  <img height="660" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"  />
 </div>
 
 ###
@@ -23,6 +11,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <h1 align="center">Abdullah khaled muhamed</h1>
 
@@ -74,7 +64,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=abdullaahkhaled&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
