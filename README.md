@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left"> I am Junior Data Analyst, i have strong interest in data analysis and have taken several courses and internships to enhnce my skills in this field<br>  including Python programming, professional Excel user, SQL and data visulization tools like power BI and Tableau ,I seek to continuously improve my expertise and contribute effectively to data driven decision-making processes.</p>
+<p align="left"> I am Junior Data Analyst, i have strong interest in data analysis and have taken several courses and internships to enhnce my skills in this field including Python programming, professional Excel user, SQL and data visulization tools like power BI and Tableau ,I seek to continuously improve my expertise and contribute effectively to data driven decision-making processes.</p>
 
 ###
 
