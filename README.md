@@ -61,10 +61,7 @@
 
 ###
 
-<h3 align="left">🏆 Trophies</h3>
-
-###
-
+### 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=abdullaahkhaled&row=1&margin-h=0&no-frame=true&no-bg=false&theme=dracula&margin-w=5" height="150" alt="trophy graph"  />
 </div>
