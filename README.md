@@ -53,8 +53,23 @@
 ###
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=abdullaahkhaled&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullaahkhaled&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullaahkhaled&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=abdullaahkhaled&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=15&order=3" height="225" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullaahkhaled&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=15&theme=dracula&hide_border=true&order=2" height="125" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">🏆 Trophies</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=abdullaahkhaled&row=1&margin-h=0&no-frame=true&no-bg=false&theme=dracula&margin-w=5" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 ---
 ###
