@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=abdullaahkhaled&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=abdullaahkhaled&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=15&order=3" height="225" alt="streak graph" /> <br>
@@ -61,7 +61,7 @@
 
 ###
 
-### 🏆 Trophies
+## 🏆 Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=abdullaahkhaled&row=1&margin-h=0&no-frame=true&no-bg=false&theme=dracula&margin-w=5" height="150" alt="trophy graph"  />
 </div>
